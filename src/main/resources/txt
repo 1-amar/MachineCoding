@@ -1,0 +1,7 @@
+Models
+- Tables {TableName}
+- Table {Table Name -  String, Set of Columns, Map<Int, List<String>>}
+
+same table name shouldn't exist twice.
+TableRepository
+
